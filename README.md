@@ -24,8 +24,8 @@
 
 
 
-* **Built:**  6 full-stack Solidity projects before = https://pt-mu.vercel.app/
-* Youtube: https://www.youtube.com/@Gsdeveloper33/videos
+* **Built:**       6 full-stack Solidity projects before = https://pt-mu.vercel.app/
+* **Youtube:**      https://www.youtube.com/@Gsdeveloper33/videos
 
 
 
