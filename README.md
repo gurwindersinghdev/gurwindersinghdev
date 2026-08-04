@@ -21,7 +21,7 @@
 
 
 
-* **Built:** 6 Solidity projects = https://pt-mu.vercel.app/
+* **Built:**  6 full-stack Solidity projects before = https://pt-mu.vercel.app/
 
 
 
