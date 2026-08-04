@@ -2,6 +2,7 @@
 
 * **Currently learning:** Full Stack Sui development
 * Published: 15+ Sui Move security articles on X [https://x.com/gurwinder_sui/articles]
+* Youtube: https://www.youtube.com/@Gsdeveloper33/videos
 
 ## Public Audit Contests
 
