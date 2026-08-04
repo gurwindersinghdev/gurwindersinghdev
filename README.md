@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 * **Currently learning:** Full Stack Sui development
 
