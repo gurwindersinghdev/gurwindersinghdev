@@ -7,7 +7,7 @@
 |  № | Project          |   TVL | Findings          | Language |
 | -: | ---------------- | ----: | ----------------- | -------- |
 |  2 | Bluefin Protocol | $90M+ | Pending           | Move     |
-|  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move     |
+|  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move    |            [https://cantina.xyz/u/solo] = public profile
 
 ---
 
