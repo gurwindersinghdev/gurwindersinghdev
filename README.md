@@ -23,7 +23,7 @@
 
 
 
-* **Built:**       6 full-stack Solidity projects before = https://private-pt.vercel.app/
+* **Built:**       list of solidity projects Before = [https://xyzprojects.vercel.app/]
 * **Youtube:**      https://www.youtube.com/@Gsdeveloper33/videos
 
 
