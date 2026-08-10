@@ -23,7 +23,7 @@
 
 
 
-* **Built:**       list of solidity projects Before = [https://xyzprojects.vercel.app/]
+* **Built:**       list of solidity projects Before = [https://defiprojects.vercel.app/]
 * **Youtube:**      https://www.youtube.com/@Gsdeveloper33/videos
 
 
