@@ -15,7 +15,7 @@
 
 |  № | Project          |   TVL | Findings          | Language | Profile                                      |
 | -: | ---------------- | ----: | ----------------- | -------- | -------------------------------------------- |
-|  2 | Bluefin Protocol | $90M+ |                   | Move     | [view vulnerability](https://github.com/gurwindersinghdev/vul.git)|
+|  2 | Bluefin Protocol | $90M+ |                   | Move     | [vul](https://github.com/gurwindersinghdev/vul.git)|
 |  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move     | [Cantina (Solo)](https://cantina.xyz/u/solo) |
 
 
