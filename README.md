@@ -8,7 +8,7 @@
 
 |  № | Project          |   TVL | Findings          | Language | Profile                                      |
 | -: | ---------------- | ----: | ----------------- | -------- | -------------------------------------------- |
-|  2 | Bluefin Protocol | $90M+ | NDA               | Move     | —                                            |
+|  2 | Bluefin Protocol | $90M+ |                   | Move     | —                                            |
 |  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move     | [Cantina (Solo)](https://cantina.xyz/u/solo) |
 
 
