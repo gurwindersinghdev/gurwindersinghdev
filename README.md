@@ -11,7 +11,7 @@
 
 
 
-## Public Audit Contests
+##  Audit Contests
 
 |  № | Project          |   TVL | Findings          | Language | Profile                                      |
 | -: | ---------------- | ----: | ----------------- | -------- | -------------------------------------------- |
