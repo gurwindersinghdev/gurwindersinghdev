@@ -15,8 +15,8 @@
 
 |  № | Project          |   TVL | Findings          | Language | Profile                                      |
 | -: | ---------------- | ----: | ----------------- | -------- | -------------------------------------------- |
-|  2 | Bluefin Protocol | $90M+ |                   | Move     | [vul](https://github.com/gurwindersinghdev/vul.git)|
-|  1 | Aave Protocol    | $10B+ | 2 Unique Findings | Move     | [1st vul](https://github.com/gurwindersinghdev/unique-vul.git) / [2nd vul](https://github.com/gurwindersinghdev/unique-vul-part-2.git)|
+|  2 | Bluefin Protocol | $90M+ |  1 unique                 | Move     | [vul](https://github.com/gurwindersinghdev/vul.git)|
+|  1 | Aave Protocol    | $10B+ | 2 Unique | Move     | [1st vul](https://github.com/gurwindersinghdev/unique-vul.git) / [2nd vul](https://github.com/gurwindersinghdev/unique-vul-part-2.git)|
 
 
 
