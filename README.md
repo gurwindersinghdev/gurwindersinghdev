@@ -3,6 +3,7 @@
 # Sui Move Smart Contract Engineer
 
 Open-source Contributor to Typus Finance
+
 Focused on **Move smart contracts, DeFi, and smart contract security**.
 
 ## Audit Contests
