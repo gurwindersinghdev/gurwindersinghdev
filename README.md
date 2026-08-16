@@ -1,6 +1,6 @@
 
 
-* **Published:** 15+ Sui Move security articles on X [https://x.com/gurwinder_sui/articles]
+* **Published:** 11+ Sui Move security articles on X [https://x.com/gurwinder_sui/articles]
 
   ##  Audit Contests
 
