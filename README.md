@@ -13,11 +13,10 @@ Focused on **Move smart contracts, DeFi, and smart contract security**.
 
 ## Private Security Work
 
-|  № |   TVL | Vulnerabilities | Report | Language   |
-| -: | ----: | --------------- | ------ | ---------- |
-|  2 | $5.2M | 2 High          | NDA    | Sui (Move) |
-|  1 |  $50M | 1 Critical      | NDA    | Sui (Move) |
-
+|   TVL | Findings | Severity | Language   | Report |
+| ----: | -------- | -------- | ---------- | ------ |
+|  $50M | 1        | Critical | Sui (Move) | NDA    |
+| $5.2M | 2        | High     | Sui (Move) | NDA    |
 
 
 ## Other Work
