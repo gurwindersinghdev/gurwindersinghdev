@@ -30,9 +30,6 @@ Focused on **Move smart contracts, DeFi, and smart contract security**.
 * **YouTube:** [GS Developer](https://www.youtube.com/@Gsdeveloper33/videos)
 * **Sui Move Security Articles:** [11+ articles on X](https://x.com/gurwinder_sui/articles)
 
-## Focus
-
-**Sui • Move • DeFi • Smart Contract Security • Protocol Risk Analysis**
 
 
 
