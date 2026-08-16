@@ -16,7 +16,7 @@ Focused on **Move smart contracts, DeFi, and smart contract security**.
 |  $50M |        1 | Critical | Sui (Move) | NDA    |
 | $5.2M |        2 | High     | Sui (Move) | NDA    |
 
-*Private security work is under NDA.*
+
 
 ## Research & Projects
 
