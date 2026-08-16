@@ -1,5 +1,3 @@
-
-
 # Sui Move Smart Contract Engineer
 
 Focused on **Move smart contracts, DeFi, and smart contract security**.
@@ -14,18 +12,19 @@ Focused on **Move smart contracts, DeFi, and smart contract security**.
 ## Private Security Work
 
 |   TVL | Findings | Severity | Language   | Report |
-| ----: | -------- | -------- | ---------- | ------ |
-|  $50M | 1        | Critical | Sui (Move) | NDA    |
-| $5.2M | 2        | High     | Sui (Move) | NDA    |
+| ----: | -------: | -------- | ---------- | ------ |
+|  $50M |        1 | Critical | Sui (Move) | NDA    |
+| $5.2M |        2 | High     | Sui (Move) | NDA    |
 
+*Private security work is confidential under NDA.*
 
-## Other Work
+## Research & Projects
 
-
- [Security/ NDA](https://github.com/gurwindersui)
+* **Security Research:** [GitHub](https://github.com/gurwindersui)
 * **Full-Stack Solidity Projects:** [DeFi Projects](https://defiprojects.vercel.app/)
 * **YouTube:** [GS Developer](https://www.youtube.com/@Gsdeveloper33/videos)
 * **Sui Move Security Articles:** [11+ articles on X](https://x.com/gurwinder_sui/articles)
+
 
 
 
