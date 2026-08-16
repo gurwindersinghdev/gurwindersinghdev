@@ -23,7 +23,7 @@ Focused on **Move smart contracts, DeFi, and smart contract security**.
 ## Other Work
 
 
-* **Security Contributions:** [Security Contributions: Confidential / NDA](https://github.com/gurwindersui)
+ [Security/ NDA](https://github.com/gurwindersui)
 * **Full-Stack Solidity Projects:** [DeFi Projects](https://defiprojects.vercel.app/)
 * **YouTube:** [GS Developer](https://www.youtube.com/@Gsdeveloper33/videos)
 * **Sui Move Security Articles:** [11+ articles on X](https://x.com/gurwinder_sui/articles)
