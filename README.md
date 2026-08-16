@@ -22,7 +22,7 @@
 * **Built:**       list of solidity projects Before = [https://defiprojects.vercel.app/]
 * **Youtube:**      https://www.youtube.com/@Gsdeveloper33/videos
 * **Security Contribution**      https://github.com/gurwindersui
-* Published:** 11+ Sui Move security articles on X [https://x.com/gurwinder_sui/articles]
+* **Published:** 11+ Sui Move security articles on X [https://x.com/gurwinder_sui/articles]
 
 
 
