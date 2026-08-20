@@ -1,6 +1,6 @@
 # Sui Move Smart Contract Engineer
 
-Focused on **Move smart contracts, DeFi, and smart contract security**.
+
 
 ## Audit Contests
 
