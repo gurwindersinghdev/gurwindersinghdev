@@ -1,6 +1,6 @@
 # Move Smart Contract Engineer
 
-Open source contributer
+
 
 ## Audit Contests
 
