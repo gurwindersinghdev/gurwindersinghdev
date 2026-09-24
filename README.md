@@ -1,5 +1,7 @@
 # Move Smart Contract Engineer
 
+Available to join a team as a Sui Move and backend developer.
+
 
 ## Articles & Projects
 
