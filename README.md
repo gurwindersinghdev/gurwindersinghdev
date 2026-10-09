@@ -1,6 +1,6 @@
 # Move Smart Contract Engineer
 
-Available to join a team as a Sui Move and backend developer.
+Available to join a team as a Sui Move developer.
 contact me = [linkedin/gurwinder-singh](https://www.linkedin.com/in/gurwinder-singh-b0651a40b/)
 
 
