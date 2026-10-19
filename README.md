@@ -14,7 +14,7 @@ Available to join a team as a **Sui Move Developer**.
 
 ## Security Research Findings
 
-- **Aave (Aptos) Protocol:** [Finding](https://github.com/gurwindersui/unique-vul-part-2) — ~$billion TVL
+- **Aave (Aptos) Protocol:** [Finding](https://github.com/gurwindersui/unique-vul-part-2) — ~$18billion TVL
 - **Bluefin Protocol :** [Finding](https://github.com/gurwindersui/unique-vul) — ~$14.6M TVL
 
 
