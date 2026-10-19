@@ -7,7 +7,7 @@ Available to join a team as a **Sui Move Developer**.
 ## Articles & Projects
 
 - **Sui Move Articles:** [11+ Articles on X](https://x.com/gurwinder_sui/articles)
-- **Solidity DeFi Projects:** [View Projects](https://defiprojects.vercel.app/)
+- **Solidity DeFi Projects:** [Defi Projects](https://defiprojects.vercel.app/)
 
 
 
