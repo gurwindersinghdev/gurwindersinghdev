@@ -10,10 +10,12 @@ Available to join a team as a **Sui Move Developer**.
 - **Solidity DeFi Projects:** [View Projects](https://defiprojects.vercel.app/)
 
 
+
+
 ## Security Research Findings
 
-- **Aave Protocol:** [Vulnerability Research](https://github.com/gurwindersui/unique-vul-part-2) — **~$394K TVL on Aptos** ([Aave overall: ~$18B](https://defillama.com/protocol/aave))
-- **Bluefin Protocol:** [Vulnerability Research](https://github.com/gurwindersui/unique-vul) — **~$14.6M TVL** ([Source](https://defillama.com/protocol/bluefin))
+- **Aave (Aptos):** [Finding](https://github.com/gurwindersui/unique-vul-part-2) — ~$394K TVL
+- **Bluefin:** [Finding](https://github.com/gurwindersui/unique-vul) — ~$14.6M TVL
 
 
 
