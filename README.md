@@ -1,4 +1,4 @@
-# Move Smart Contract Engineer
+#  Smart Contract Engineer
 
 Available to join a team as a **Sui Move Developer**.
 
