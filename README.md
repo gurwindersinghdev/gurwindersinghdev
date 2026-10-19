@@ -1,6 +1,6 @@
 # **Sui Move** Smart Contract Engineer
 
-Available to join a team as a **Sui Move Developer**.
+
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/gurwinder-singh-b0651a40b/)
 
