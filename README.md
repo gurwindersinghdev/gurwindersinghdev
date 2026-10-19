@@ -10,7 +10,7 @@ Available to join a team as a **Sui Move Developer**.
 - **Solidity DeFi Projects:** [View Projects](https://defiprojects.vercel.app/)
 
 
-## Security Research
+## Security Research Findings
 
 - **Aave Protocol:** [Vulnerability Research](https://github.com/gurwindersui/unique-vul-part-2)
 - **Bluefin Protocol:** [Vulnerability Research](https://github.com/gurwindersui/unique-vul)
