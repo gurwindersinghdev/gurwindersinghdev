@@ -4,9 +4,9 @@
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/gurwinder-singh-b0651a40b/)
 
-## Articles & Projects
+##  Projects
 
-- **Sui Move Security Articles:** [11+ Articles on X](https://x.com/gurwinder_sui/articles)
+
 - **Solidity DeFi Projects:** [Defi Projects](https://defiprojects.vercel.app/)
 
 
