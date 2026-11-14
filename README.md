@@ -7,7 +7,7 @@
 ##  Projects
 
 
-- **Solidity DeFi Projects:** [Defi Projects](https://defiprojects.vercel.app/)
+- **Portfolio:** [https://prpdev.vercel.app/]
 
 
 
