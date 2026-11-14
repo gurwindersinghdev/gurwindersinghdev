@@ -1,9 +1,3 @@
-# **Sui Move**  Engineering
-
-
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/gurwinder-singh-b0651a40b/)
-
 ##  Portfolio
 
 
