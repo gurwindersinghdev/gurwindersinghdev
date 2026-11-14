@@ -4,7 +4,7 @@
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/gurwinder-singh-b0651a40b/)
 
-##  Projects
+##  Portfolio
 
 
 - **Portfolio:** [https://prpdev.vercel.app/]
