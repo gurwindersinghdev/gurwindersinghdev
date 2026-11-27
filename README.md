@@ -1,7 +1,7 @@
 
 I build end-to-end products on Sui, from backend to frontend, specializing in Move security.
 
-live prototype = https://setlend-prototypee.vercel.app/
+**Live Prototype:** https://setlend-prototypee.vercel.app/
 
 
 
